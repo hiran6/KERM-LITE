@@ -7,17 +7,17 @@
   "SESSION_ID": {
    "description": "SESSION ID FOR BOT",
    "required": true,
-   "value": "Session~"
+   "value": "KermLite~XitKpDph"
   },
   "BOT_INFO": {
    "description": "BOT INFO",
    "required": true,
-   "value": "Kɢᴛᴇᴄʜ;Kᴇʀᴍ ʟɪᴛᴇ;https://telegra.ph/file/3ac47cbad32a86aa12251.jpg"
+   "value": "Kɢᴛᴇᴄʜ;RAHUL_JI;https://telegra.ph/file/3ac47cbad32a86aa12251.jpg"
   },
   "SUDO": {
    "description": "SUDO NUMBERS",
    "required": true,
-   "value": "237659535227,237650564445"
+   "value": "919356730236"
   },
   "AUTHOR": {
    "description": "STICKER AUTHOR",
@@ -37,7 +37,7 @@
   "RMBG_KEY": {
    "description": "REMOVE BG KEY",
    "required": false,
-   "value": ""
+   "value": "false"
   },
   "HEROKU_APP_NAME": {
    "description": "SAME AS ABOVE",
@@ -47,7 +47,7 @@
   "HEROKU_API_KEY": {
    "description": "USED FOR HEROKU VARS",
    "required": true,
-   "value": ""
+   "value": "false"
   }
  },
  "formation": {
